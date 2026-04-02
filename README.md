@@ -19,23 +19,33 @@ I am an active researcher focusing on developing efficient network architectures
 
 ### 🏆 Selected Publications
 
-* **[CVPR 2026]** **From Infusion to Assimilation Distillation for Medical Image Segmentation**
-  *J Hong, Y Luo, Y Liu, J Yuan*
-  [💻 Code](https://github.com/hjklearn/YOUR_REPO_NAME_HERE)
+<br>
 
-* **[IEEE T-ITS 2024]** **DSANet-KD: Dual semantic approximation network via knowledge distillation for rail surface defect detection**
-  *W Zhou, J Hong, X Ran, W Yan, Q Jiang*
-  [📄 Paper](YOUR_PAPER_LINK_HERE)
+#### 🔥 Top-Tier Highlights
 
-* **[IEEE TIM 2023]** **FHENet: Lightweight feature hierarchical exploration network for real-time rail surface defect inspection in RGB-D images**
-  *W Zhou, J Hong* |  🔥 **72+ Citations**
-  [📄 Paper](YOUR_PAPER_LINK_HERE)
+> **🏆 [CVPR 2026]** **From Infusion to Assimilation Distillation for Medical Image Segmentation**
+> *J Hong, Y Luo, Y Liu, J Yuan*
+> [💻 Code](https://github.com/hjklearn/YOUR_REPO_NAME_HERE)
 
-* **[IEEE TCSVT 2023]** **Modal evaluation network via knowledge distillation for no-service rail surface defect detection**
-  *W Zhou, J Hong, W Yan, Q Jiang*
+<br>
 
-* **[BIBM 2025]** **Interactive Adaptation Prototypes Network for Few-Shot Medical Image Semantic Segmentation**
-  *H Zhao, Q Chen, J Hong, Q Jin, C Yu, J Din, L Li, Z Chang*
+#### 🥇 Journal & Conference Papers
+
+* **🥇 [IEEE T-ITS 2024]** **DSANet-KD: Dual semantic approximation network via knowledge distillation for rail surface defect detection**
+    *W Zhou, J Hong, X Ran, W Yan, Q Jiang*
+    [📄 Paper](YOUR_PAPER_LINK_HERE)
+
+* **🥇 [IEEE TIM 2023]** **FHENet: Lightweight feature hierarchical exploration network for real-time rail surface defect inspection in RGB-D images**
+    *W Zhou, J Hong* |  🔥 **Highly Cited: 72+**
+    [📄 Paper](YOUR_PAPER_LINK_HERE)
+
+* **🥇 [IEEE TCSVT 2023]** **Modal evaluation network via knowledge distillation for no-service rail surface defect detection**
+    *W Zhou, J Hong, W Yan, Q Jiang*
+
+* **🥇 [BIBM 2025]** **Interactive Adaptation Prototypes Network for Few-Shot Medical Image Semantic Segmentation**
+    *H Zhao, Q Chen, J Hong, Q Jin, C Yu, J Din, L Li, Z Chang*
+
+<br>
 
 *(For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=UmiCAJUAAAAJ&hl=zh-CN).)*
 
