@@ -4,7 +4,7 @@
   <a href="https://scholar.google.com/citations?user=UmiCAJUAAAAJ&hl=zh-CN" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
-  <a href="mailto:YOUR_EMAIL@tongji.edu.cn">
+  <a href="2510259@tongji.edu.cn">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
