@@ -24,9 +24,9 @@ I am an active researcher focusing on developing efficient network architectures
 ### 🏆 Selected Publications
 
 #### 🔥 Journal & Conference Papers
-> **🔥 [CVPR 2026]** **From Infusion to Assimilation Distillation for Medical Image Segmentation**
-> *J Hong, Y Luo, Y Liu, J Yuan*
-> [💻 Code](https://github.com/hjklearn/YOUR_REPO_NAME_HERE)
+#### > **🔥 New!!! [CVPR 2026]** **From Infusion to Assimilation Distillation for Medical Image Segmentation**
+#### > *J Hong, Y Luo, Y Liu, J Yuan*
+#### > [💻 Code](https://github.com/hjklearn/YOUR_REPO_NAME_HERE)
 
 * **🔥 [IEEE T-ITS 2024]** **DSANet-KD: Dual semantic approximation network via knowledge distillation for rail surface defect detection**
     *W Zhou, J Hong, X Ran, W Yan, Q Jiang*
