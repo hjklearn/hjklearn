@@ -23,9 +23,6 @@ I am an active researcher focusing on developing efficient network architectures
 
 ### 🏆 Selected Publications
 
-<br>
-
-
 #### 🔥 Journal & Conference Papers
 > **🔥 [CVPR 2026]** **From Infusion to Assimilation Distillation for Medical Image Segmentation**
 > *J Hong, Y Luo, Y Liu, J Yuan*
