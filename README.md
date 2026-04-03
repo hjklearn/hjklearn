@@ -4,12 +4,12 @@
 
 # 👋 Hi there, I'm Jiankang Hong (洪健康)
 
-> 🎓 **Computer Vision & Medical Image Segmentation Researcher @ [Tongji University](https://www.tongji.edu.cn/)**
+> 🎓 **Computer Vision & Medical Image Segmentation PhD student @ [Tongji University](https://www.tongji.edu.cn/)**
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=UmiCAJUAAAAJ&hl=zh-CN)
 [![Email](https://img.shields.io/badge/Email-2510259@tongji.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2510259@tongji.edu.cn)
 
-I am an active researcher focusing on developing efficient network architectures, **knowledge distillation**, and **few-shot learning**. My goal is to solve complex visual recognition challenges across both **medical imaging** and **industrial inspection** domains.
+I am a PhD student focusing on developing efficient network architectures, **knowledge distillation**, and **few-shot learning**. My goal is to solve complex visual recognition challenges across both **medical imaging** and **industrial inspection** domains.
 
 ---
 
